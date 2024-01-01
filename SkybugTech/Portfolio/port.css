@@ -92,17 +92,19 @@ main hr {
 }
 .vertical-title {
   position: relative;
-  top: 40px;
+  top: 90px;
   width: 150px;
+  /* left: 10px; */
 }
 .vertical-desc {
   position: relative;
   color: gray;
   width: 150px;
-  top: 45px;
+  top: 95px;
   font-size: 9px;
 }
 .image-top {
+  display: none;
   width: 50px;
   position: relative;
   top: -50px;

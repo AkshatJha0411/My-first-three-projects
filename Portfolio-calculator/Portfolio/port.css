@@ -10,6 +10,11 @@ body {
 .left {
   font-size: 1.6rem;
 }
+.thirdsection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 .firstSection {
   display: flex;
   justify-content: space-around;

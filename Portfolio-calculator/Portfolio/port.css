@@ -186,6 +186,9 @@ main hr {
   }
   /* footer is coming under the second section and i need footer to come after second section all content */
   .secondSection {
-    height: 85vh;
+    height: 100vh;
+  }
+  #thirdsec {
+    height: 70vh !important;
   }
 }

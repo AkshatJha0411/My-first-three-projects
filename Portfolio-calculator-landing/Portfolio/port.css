@@ -8,7 +8,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .left {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
+}
+.student {
+  font-size: 1.3rem;
 }
 .thirdsection {
   display: flex;
@@ -68,7 +71,7 @@ nav ul li a:hover {
 .secondSection {
   margin: auto;
   max-width: 80vw;
-  height: 50vh;
+  height: 97vh;
 }
 .secondSection h1 {
   font-size: 1.6rem;
@@ -139,7 +142,7 @@ main hr {
   font-size: 0.7rem;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1000px) {
   /* body {
     background-color: red;
   } */
